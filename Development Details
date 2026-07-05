@@ -1,0 +1,271 @@
+Complete Dairy Farm & Milk Distribution Management System
+
+Technology Stack
+Frontend
+React 19
+Vite
+Material UI
+React Router
+React Query
+Chart.js
+Axios
+Backend
+Node.js
+Express.js
+JWT Authentication
+Socket.io (Notifications)
+Database
+MySQL 8
+File Storage
+Local Storage (Development)
+AWS S3 (Production)
+Reports
+PDF
+Excel
+Deployment
+AWS EC2
+Nginx
+PM2
+Complete Modules
+Phase 1 – Foundation
+
+✔ Login
+
+✔ Dashboard
+
+✔ User Management
+
+✔ Settings
+
+Phase 2 – Customer Management
+Add Customer
+Customer Ledger
+Customer Route
+Daily Delivery
+Milk Rate
+Product Rates
+Due Amount
+WhatsApp Number
+Phase 3 – Products
+Milk
+Paneer
+Curd
+Ghee
+Kulfi
+Butter
+Gobbar
+Cow
+Sack
+Phase 4 – Daily Sales
+
+Morning Sales
+
+Evening Sales
+
+Customer-wise Entry
+
+Bulk Entry
+
+Auto Amount
+
+Phase 5 – Billing
+
+Monthly Bill
+
+Custom Bill
+
+Carry Forward Due
+
+Advance
+
+Payment Adjustment
+
+PDF
+
+WhatsApp
+
+Phase 6 – Payments
+
+Cash
+
+UPI
+
+Bank
+
+Cheque
+
+Partial Payment
+
+Receipt Printing
+
+Phase 7 – Cash Book
+
+Income
+
+Expenses
+
+Opening Balance
+
+Closing Balance
+
+Cash In Hand
+
+Bank Balance
+
+Daily Cash Book
+
+Phase 8 – Expense Management
+
+Staff Salary
+
+Fodder
+
+Medicine
+
+Electricity
+
+Doctor
+
+Equipment
+
+Maintenance
+
+Miscellaneous
+
+Phase 9 – Animal Management
+
+Cow
+
+Buffalo
+
+Breed
+
+Purchase
+
+Sale
+
+Health
+
+Vaccination
+
+Pregnancy
+
+Calving
+
+Photo
+
+QR Code
+
+Phase 10 – Milk Production
+
+Morning Collection
+
+Evening Collection
+
+Animal-wise Production
+
+Fat %
+
+SNF
+
+Loss
+
+Consumption
+
+Phase 11 – Inventory
+
+Feed
+
+Medicine
+
+Cleaning
+
+Equipment
+
+Stock In
+
+Stock Out
+
+Low Stock Alert
+
+Phase 12 – Reports
+
+Sales Report
+
+Collection Report
+
+Due Report
+
+Expense Report
+
+Cash Book
+
+Profit Loss
+
+Inventory Report
+
+Milk Production
+
+Customer Ledger
+
+Animal Report
+
+GST Report
+
+Dashboard
+
+Beautiful cards showing
+
+Today's Sale
+
+Today's Collection
+
+Pending Due
+
+Milk Sold
+
+Milk Produced
+
+Today's Expense
+
+Cash In Hand
+
+Bank Balance
+
+Profit
+
+Total Customers
+
+Total Animals
+
+Inventory Alerts
+
+Recent Transactions
+Mobile Features
+Works like an Android App (PWA)
+Install from Browser
+Camera Support
+QR Scanner
+Offline Data Entry
+Push Notifications
+Folder Structure
+mak-dairy-erp/
+│
+├── client/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── server/
+│   ├── controllers/
+│   ├── routes/
+│   ├── middleware/
+│   ├── models/
+│   ├── config/
+│   └── server.js
+│
+├── database/
+│
+├── docs/
+│
+└── README.md
